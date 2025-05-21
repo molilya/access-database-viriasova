@@ -1,0 +1,2321 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Kursovaya_Viriasova
+</name>
+</assembly>
+<members>
+<member name="T:Kursovaya_Viriasova.My.Resources.Resources">
+<summary>
+  Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+</summary>
+</member>
+<member name="P:Kursovaya_Viriasova.My.Resources.Resources.ResourceManager">
+<summary>
+  Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+</summary>
+</member>
+<member name="P:Kursovaya_Viriasova.My.Resources.Resources.Culture">
+<summary>
+  Перезаписывает свойство CurrentUICulture текущего потока для всех
+  обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+</summary>
+</member>
+<member name="P:Kursovaya_Viriasova.My.Resources.Resources._1639223823_36_papik_pro_p_klipart_lupa_36">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet.АбитуриентыDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet.АбитуриентыШколаDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet.ЗачисленныеПредприятиеDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet.ЗачисленныеШколаDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet.АбитуриентыRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet.АбитуриентыШколаRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet.ЗачисленныеПредприятиеRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet.ЗачисленныеШколаRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet.АбитуриентыRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet.АбитуриентыШколаRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet.ЗачисленныеПредприятиеRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet.ЗачисленныеШколаRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSetTableAdapters.АбитуриентыTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSetTableAdapters.АбитуриентыШколаTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSetTableAdapters.ЗачисленныеПредприятиеTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSetTableAdapters.ЗачисленныеШколаTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSetTableAdapters.TableAdapterManager.UpdateAll(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet10">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet10.Зачисленные_ИСDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet10.Зачисленные_ИСRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet10.Зачисленные_ИСRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet10TableAdapters.Зачисленные_ИСTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet10TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet10TableAdapters.TableAdapterManager.UpdateUpdatedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet10,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet10TableAdapters.TableAdapterManager.UpdateInsertedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet10,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet10TableAdapters.TableAdapterManager.UpdateDeletedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet10,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet10TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet10TableAdapters.TableAdapterManager.UpdateAll(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet10)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet10TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet10TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1.АбитуриентыDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1.АбитуриентыПредприятиеDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1.АбитуриентыШколаDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1.ЗачисленныеПредприятиеDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1.ЗачисленныеШколаDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1.ПоступающиеБухгалтерскийУчетDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1.ПоступающиеИнформационныеСистемыИПрограммированиеDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1.ПоступающиеСестринскоеДелоDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1.АбитуриентыRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1.АбитуриентыПредприятиеRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1.АбитуриентыШколаRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1.ЗачисленныеПредприятиеRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1.ЗачисленныеШколаRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1.ПоступающиеБухгалтерскийУчетRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1.ПоступающиеИнформационныеСистемыИПрограммированиеRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1.ПоступающиеСестринскоеДелоRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1.АбитуриентыRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1.АбитуриентыПредприятиеRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1.АбитуриентыШколаRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1.ЗачисленныеПредприятиеRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1.ЗачисленныеШколаRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1.ПоступающиеБухгалтерскийУчетRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1.ПоступающиеИнформационныеСистемыИПрограммированиеRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1.ПоступающиеСестринскоеДелоRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1TableAdapters.АбитуриентыTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1TableAdapters.АбитуриентыПредприятиеTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1TableAdapters.АбитуриентыШколаTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1TableAdapters.ЗачисленныеПредприятиеTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1TableAdapters.ЗачисленныеШколаTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1TableAdapters.ПоступающиеБухгалтерскийУчетTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1TableAdapters.ПоступающиеИнформационныеСистемыИПрограммированиеTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1TableAdapters.ПоступающиеСестринскоеДелоTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1TableAdapters.TableAdapterManager.UpdateAll(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet11">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet11.Зачисленные_ИСDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet11.Зачисленные_ИСRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet11.Зачисленные_ИСRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet11TableAdapters.Зачисленные_ИСTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet11TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet11TableAdapters.TableAdapterManager.UpdateUpdatedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet11,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet11TableAdapters.TableAdapterManager.UpdateInsertedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet11,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet11TableAdapters.TableAdapterManager.UpdateDeletedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet11,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet11TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet11TableAdapters.TableAdapterManager.UpdateAll(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet11)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet11TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet11TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet12">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet12.СпециальностиDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet12.СпециальностиRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet12.СпециальностиRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet12TableAdapters.СпециальностиTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet12TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet12TableAdapters.TableAdapterManager.UpdateUpdatedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet12,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet12TableAdapters.TableAdapterManager.UpdateInsertedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet12,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet12TableAdapters.TableAdapterManager.UpdateDeletedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet12,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet12TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet12TableAdapters.TableAdapterManager.UpdateAll(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet12)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet12TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet12TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet13">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet13.СпециальностиDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet13.СпециальностиRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet13.СпециальностиRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet13TableAdapters.СпециальностиTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet13TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet13TableAdapters.TableAdapterManager.UpdateUpdatedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet13,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet13TableAdapters.TableAdapterManager.UpdateInsertedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet13,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet13TableAdapters.TableAdapterManager.UpdateDeletedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet13,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet13TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet13TableAdapters.TableAdapterManager.UpdateAll(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet13)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet13TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet13TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2.АбитуриентыDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2.АбитуриентыПредприятиеDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2.АбитуриентыШколаDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2.ЗачисленныеПредприятиеDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2.ЗачисленныеШколаDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2.ПоступающиеАвтомобилеИТракторостроениеDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2.ПоступающиеБухгалтерскийУчетDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2.ПоступающиеИнформационныеСистемыИПрограммированиеDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2.ПоступающиеМеталлургическоеПроизводствоDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2.ПоступающиеТехнологияМашиностроенияDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2.АбитуриентыRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2.АбитуриентыПредприятиеRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2.АбитуриентыШколаRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2.ЗачисленныеПредприятиеRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2.ЗачисленныеШколаRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2.ПоступающиеАвтомобилеИТракторостроениеRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2.ПоступающиеБухгалтерскийУчетRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2.ПоступающиеИнформационныеСистемыИПрограммированиеRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2.ПоступающиеМеталлургическоеПроизводствоRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2.ПоступающиеТехнологияМашиностроенияRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2.АбитуриентыRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2.АбитуриентыПредприятиеRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2.АбитуриентыШколаRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2.ЗачисленныеПредприятиеRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2.ЗачисленныеШколаRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2.ПоступающиеАвтомобилеИТракторостроениеRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2.ПоступающиеБухгалтерскийУчетRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2.ПоступающиеИнформационныеСистемыИПрограммированиеRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2.ПоступающиеМеталлургическоеПроизводствоRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2.ПоступающиеТехнологияМашиностроенияRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2TableAdapters.АбитуриентыTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2TableAdapters.АбитуриентыПредприятиеTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2TableAdapters.АбитуриентыШколаTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2TableAdapters.ЗачисленныеПредприятиеTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2TableAdapters.ЗачисленныеШколаTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2TableAdapters.ПоступающиеАвтомобилеИТракторостроениеTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2TableAdapters.ПоступающиеБухгалтерскийУчетTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2TableAdapters.ПоступающиеИнформационныеСистемыИПрограммированиеTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2TableAdapters.ПоступающиеМеталлургическоеПроизводствоTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2TableAdapters.ПоступающиеТехнологияМашиностроенияTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2TableAdapters.TableAdapterManager.UpdateAll(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3.АбитуриентыDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3.АбитуриентыПредприятиеDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3.АбитуриентыШколаDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3.ЗачисленныеПредприятиеDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3.ЗачисленныеШколаDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3.ПоступающиеАвтомобилеИТракторостроениеDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3.ПоступающиеБухгалтерскийУчетDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3.ПоступающиеИнформационныеСистемыИПрограммированиеDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3.ПоступающиеМеталлургическоеПроизводствоDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3.ПоступающиеТехнологияМашиностроенияDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3.АбитуриентыRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3.АбитуриентыПредприятиеRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3.АбитуриентыШколаRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3.ЗачисленныеПредприятиеRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3.ЗачисленныеШколаRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3.ПоступающиеАвтомобилеИТракторостроениеRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3.ПоступающиеБухгалтерскийУчетRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3.ПоступающиеИнформационныеСистемыИПрограммированиеRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3.ПоступающиеМеталлургическоеПроизводствоRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3.ПоступающиеТехнологияМашиностроенияRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3.АбитуриентыRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3.АбитуриентыПредприятиеRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3.АбитуриентыШколаRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3.ЗачисленныеПредприятиеRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3.ЗачисленныеШколаRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3.ПоступающиеАвтомобилеИТракторостроениеRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3.ПоступающиеБухгалтерскийУчетRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3.ПоступающиеИнформационныеСистемыИПрограммированиеRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3.ПоступающиеМеталлургическоеПроизводствоRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3.ПоступающиеТехнологияМашиностроенияRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3TableAdapters.АбитуриентыTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3TableAdapters.АбитуриентыПредприятиеTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3TableAdapters.АбитуриентыШколаTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3TableAdapters.ЗачисленныеПредприятиеTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3TableAdapters.ЗачисленныеШколаTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3TableAdapters.ПоступающиеАвтомобилеИТракторостроениеTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3TableAdapters.ПоступающиеБухгалтерскийУчетTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3TableAdapters.ПоступающиеИнформационныеСистемыИПрограммированиеTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3TableAdapters.ПоступающиеМеталлургическоеПроизводствоTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3TableAdapters.ПоступающиеТехнологияМашиностроенияTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3TableAdapters.TableAdapterManager.UpdateAll(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4.АбитуриентыDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4.АбитуриентыПредприятиеDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4.АбитуриентыШколаDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4.ЗачисленныеПредприятиеDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4.ЗачисленныеШколаDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4.ПоступающиеАвтомобилеИТракторостроениеDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4.ПоступающиеБухгалтерскийУчетDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4.ПоступающиеИнформационныеСистемыИПрограммированиеDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4.ПоступающиеМеталлургическоеПроизводствоDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4.ПоступающиеТехнологияМашиностроенияDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4.АбитуриентыRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4.АбитуриентыПредприятиеRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4.АбитуриентыШколаRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4.ЗачисленныеПредприятиеRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4.ЗачисленныеШколаRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4.ПоступающиеАвтомобилеИТракторостроениеRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4.ПоступающиеБухгалтерскийУчетRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4.ПоступающиеИнформационныеСистемыИПрограммированиеRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4.ПоступающиеМеталлургическоеПроизводствоRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4.ПоступающиеТехнологияМашиностроенияRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4.АбитуриентыRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4.АбитуриентыПредприятиеRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4.АбитуриентыШколаRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4.ЗачисленныеПредприятиеRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4.ЗачисленныеШколаRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4.ПоступающиеАвтомобилеИТракторостроениеRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4.ПоступающиеБухгалтерскийУчетRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4.ПоступающиеИнформационныеСистемыИПрограммированиеRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4.ПоступающиеМеталлургическоеПроизводствоRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4.ПоступающиеТехнологияМашиностроенияRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4TableAdapters.АбитуриентыTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4TableAdapters.АбитуриентыПредприятиеTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4TableAdapters.АбитуриентыШколаTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4TableAdapters.ЗачисленныеПредприятиеTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4TableAdapters.ЗачисленныеШколаTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4TableAdapters.ПоступающиеАвтомобилеИТракторостроениеTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4TableAdapters.ПоступающиеБухгалтерскийУчетTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4TableAdapters.ПоступающиеИнформационныеСистемыИПрограммированиеTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4TableAdapters.ПоступающиеМеталлургическоеПроизводствоTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4TableAdapters.ПоступающиеТехнологияМашиностроенияTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4TableAdapters.TableAdapterManager.UpdateUpdatedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4TableAdapters.TableAdapterManager.UpdateInsertedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4TableAdapters.TableAdapterManager.UpdateDeletedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4TableAdapters.TableAdapterManager.UpdateAll(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet4TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5.АбитуриентыDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5.АбитуриентыПредприятиеDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5.АбитуриентыШколаDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5.ЗачисленныеПредприятиеDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5.ЗачисленныеШколаDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5.ПоступающиеАвтомобилеИТракторостроениеDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5.ПоступающиеБухгалтерскийУчетDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5.ПоступающиеИнформационныеСистемыИПрограммированиеDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5.ПоступающиеМеталлургическоеПроизводствоDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5.ПоступающиеТехнологияМашиностроенияDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5.АбитуриентыRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5.АбитуриентыПредприятиеRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5.АбитуриентыШколаRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5.ЗачисленныеПредприятиеRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5.ЗачисленныеШколаRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5.ПоступающиеАвтомобилеИТракторостроениеRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5.ПоступающиеБухгалтерскийУчетRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5.ПоступающиеИнформационныеСистемыИПрограммированиеRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5.ПоступающиеМеталлургическоеПроизводствоRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5.ПоступающиеТехнологияМашиностроенияRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5.АбитуриентыRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5.АбитуриентыПредприятиеRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5.АбитуриентыШколаRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5.ЗачисленныеПредприятиеRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5.ЗачисленныеШколаRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5.ПоступающиеАвтомобилеИТракторостроениеRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5.ПоступающиеБухгалтерскийУчетRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5.ПоступающиеИнформационныеСистемыИПрограммированиеRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5.ПоступающиеМеталлургическоеПроизводствоRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5.ПоступающиеТехнологияМашиностроенияRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5TableAdapters.АбитуриентыTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5TableAdapters.АбитуриентыПредприятиеTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5TableAdapters.АбитуриентыШколаTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5TableAdapters.ЗачисленныеПредприятиеTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5TableAdapters.ЗачисленныеШколаTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5TableAdapters.ПоступающиеАвтомобилеИТракторостроениеTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5TableAdapters.ПоступающиеБухгалтерскийУчетTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5TableAdapters.ПоступающиеИнформационныеСистемыИПрограммированиеTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5TableAdapters.ПоступающиеМеталлургическоеПроизводствоTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5TableAdapters.ПоступающиеТехнологияМашиностроенияTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5TableAdapters.TableAdapterManager.UpdateUpdatedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5TableAdapters.TableAdapterManager.UpdateInsertedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5TableAdapters.TableAdapterManager.UpdateDeletedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5TableAdapters.TableAdapterManager.UpdateAll(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet5TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet6">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet6.АбитуриентыDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet6.СпециальностиDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet6.АбитуриентыRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet6.СпециальностиRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet6.АбитуриентыRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet6.СпециальностиRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet6TableAdapters.АбитуриентыTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet6TableAdapters.СпециальностиTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet6TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet6TableAdapters.TableAdapterManager.UpdateUpdatedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet6,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet6TableAdapters.TableAdapterManager.UpdateInsertedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet6,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet6TableAdapters.TableAdapterManager.UpdateDeletedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet6,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet6TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet6TableAdapters.TableAdapterManager.UpdateAll(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet6)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet6TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet6TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7.АбитуриентыDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7.СпециальностиDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7.АбитуриентыПредприятиеDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7.АбитуриентыШколаDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7.Зачисленные_ИСDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7.ЗачисленныеПредприятиеDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7.ЗачисленныеШколаDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7.ПоступающиеАвтомобилеИТракторостроениеDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7.ПоступающиеБухгалтерскийУчетDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7.ПоступающиеИнформационныеСистемыИПрограммированиеDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7.ПоступающиеМеталлургическоеПроизводствоDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7.ПоступающиеТехнологияМашиностроенияDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7.АбитуриентыRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7.СпециальностиRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7.АбитуриентыПредприятиеRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7.АбитуриентыШколаRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7.Зачисленные_ИСRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7.ЗачисленныеПредприятиеRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7.ЗачисленныеШколаRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7.ПоступающиеАвтомобилеИТракторостроениеRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7.ПоступающиеБухгалтерскийУчетRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7.ПоступающиеИнформационныеСистемыИПрограммированиеRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7.ПоступающиеМеталлургическоеПроизводствоRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7.ПоступающиеТехнологияМашиностроенияRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7.АбитуриентыRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7.СпециальностиRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7.АбитуриентыПредприятиеRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7.АбитуриентыШколаRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7.Зачисленные_ИСRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7.ЗачисленныеПредприятиеRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7.ЗачисленныеШколаRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7.ПоступающиеАвтомобилеИТракторостроениеRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7.ПоступающиеБухгалтерскийУчетRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7.ПоступающиеИнформационныеСистемыИПрограммированиеRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7.ПоступающиеМеталлургическоеПроизводствоRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7.ПоступающиеТехнологияМашиностроенияRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7TableAdapters.АбитуриентыTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7TableAdapters.СпециальностиTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7TableAdapters.АбитуриентыПредприятиеTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7TableAdapters.АбитуриентыШколаTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7TableAdapters.Зачисленные_ИСTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7TableAdapters.ЗачисленныеПредприятиеTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7TableAdapters.ЗачисленныеШколаTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7TableAdapters.ПоступающиеАвтомобилеИТракторостроениеTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7TableAdapters.ПоступающиеБухгалтерскийУчетTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7TableAdapters.ПоступающиеИнформационныеСистемыИПрограммированиеTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7TableAdapters.ПоступающиеМеталлургическоеПроизводствоTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7TableAdapters.ПоступающиеТехнологияМашиностроенияTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7TableAdapters.TableAdapterManager.UpdateUpdatedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7TableAdapters.TableAdapterManager.UpdateInsertedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7TableAdapters.TableAdapterManager.UpdateDeletedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7TableAdapters.TableAdapterManager.UpdateAll(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet7TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet8">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet8.Зачисленные_ИСDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet8.Зачисленные_ИСRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet8.Зачисленные_ИСRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet8TableAdapters.Зачисленные_ИСTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet8TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet8TableAdapters.TableAdapterManager.UpdateUpdatedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet8,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet8TableAdapters.TableAdapterManager.UpdateInsertedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet8,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet8TableAdapters.TableAdapterManager.UpdateDeletedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet8,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet8TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet8TableAdapters.TableAdapterManager.UpdateAll(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet8)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet8TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet8TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9.АбитуриентыDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9.СпециальностиDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9.АбитуриентыПредприятиеDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9.АбитуриентыШколаDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9.Зачисленные_ИСDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9.ЗачисленныеПредприятиеDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9.ЗачисленныеШколаDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9.ПоступающиеАвтомобилеИТракторостроениеDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9.ПоступающиеБухгалтерскийУчетDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9.ПоступающиеИнформационныеСистемыИПрограммированиеDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9.ПоступающиеМеталлургическоеПроизводствоDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9.ПоступающиеТехнологияМашиностроенияDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9.АбитуриентыRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9.СпециальностиRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9.АбитуриентыПредприятиеRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9.АбитуриентыШколаRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9.Зачисленные_ИСRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9.ЗачисленныеПредприятиеRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9.ЗачисленныеШколаRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9.ПоступающиеАвтомобилеИТракторостроениеRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9.ПоступающиеБухгалтерскийУчетRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9.ПоступающиеИнформационныеСистемыИПрограммированиеRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9.ПоступающиеМеталлургическоеПроизводствоRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9.ПоступающиеТехнологияМашиностроенияRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9.АбитуриентыRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9.СпециальностиRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9.АбитуриентыПредприятиеRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9.АбитуриентыШколаRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9.Зачисленные_ИСRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9.ЗачисленныеПредприятиеRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9.ЗачисленныеШколаRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9.ПоступающиеАвтомобилеИТракторостроениеRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9.ПоступающиеБухгалтерскийУчетRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9.ПоступающиеИнформационныеСистемыИПрограммированиеRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9.ПоступающиеМеталлургическоеПроизводствоRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9.ПоступающиеТехнологияМашиностроенияRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9TableAdapters.АбитуриентыTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9TableAdapters.СпециальностиTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9TableAdapters.АбитуриентыПредприятиеTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9TableAdapters.АбитуриентыШколаTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9TableAdapters.Зачисленные_ИСTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9TableAdapters.ЗачисленныеПредприятиеTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9TableAdapters.ЗачисленныеШколаTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9TableAdapters.ПоступающиеАвтомобилеИТракторостроениеTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9TableAdapters.ПоступающиеБухгалтерскийУчетTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9TableAdapters.ПоступающиеИнформационныеСистемыИПрограммированиеTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9TableAdapters.ПоступающиеМеталлургическоеПроизводствоTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9TableAdapters.ПоступающиеТехнологияМашиностроенияTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9TableAdapters.TableAdapterManager.UpdateUpdatedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9TableAdapters.TableAdapterManager.UpdateInsertedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9TableAdapters.TableAdapterManager.UpdateDeletedRows(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9TableAdapters.TableAdapterManager.UpdateAll(Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Kursovaya_Viriasova.PriemnayaKomissiyaDataSet9TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

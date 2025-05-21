@@ -1,0 +1,51 @@
+C:\Users\ekate\Desktop\учеба\3 курс\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.vbproj.AssemblyReference.cache
+C:\Users\ekate\Desktop\учеба\3 курс\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ekate\Desktop\учеба\3 курс\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.Form1.resources
+C:\Users\ekate\Desktop\учеба\3 курс\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.Resources.resources
+C:\Users\ekate\Desktop\учеба\3 курс\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.vbproj.GenerateResource.cache
+C:\Users\ekate\Desktop\учеба\3 курс\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.vbproj.CoreCompileInputs.cache
+C:\Users\ekate\Desktop\учеба\3 курс\Курсовая работа\Kursovaya_Viriasova\bin\Debug\Kursovaya_Viriasova.exe.config
+C:\Users\ekate\Desktop\учеба\3 курс\Курсовая работа\Kursovaya_Viriasova\bin\Debug\Kursovaya_Viriasova.exe
+C:\Users\ekate\Desktop\учеба\3 курс\Курсовая работа\Kursovaya_Viriasova\bin\Debug\Kursovaya_Viriasova.pdb
+C:\Users\ekate\Desktop\учеба\3 курс\Курсовая работа\Kursovaya_Viriasova\bin\Debug\Kursovaya_Viriasova.xml
+C:\Users\ekate\Desktop\учеба\3 курс\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.Form2.resources
+C:\Users\ekate\Desktop\учеба\3 курс\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.exe
+C:\Users\ekate\Desktop\учеба\3 курс\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.xml
+C:\Users\ekate\Desktop\учеба\3 курс\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.pdb
+E:\Курсовая работа\Kursovaya_Viriasova\bin\Debug\Kursovaya_Viriasova.exe.config
+E:\Курсовая работа\Kursovaya_Viriasova\bin\Debug\Kursovaya_Viriasova.exe
+E:\Курсовая работа\Kursovaya_Viriasova\bin\Debug\Kursovaya_Viriasova.pdb
+E:\Курсовая работа\Kursovaya_Viriasova\bin\Debug\Kursovaya_Viriasova.xml
+E:\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.vbprojAssemblyReference.cache
+E:\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.Form1.resources
+E:\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.Form2.resources
+E:\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.Form3.resources
+E:\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.Form4.resources
+E:\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.Resources.resources
+E:\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.vbproj.GenerateResource.cache
+E:\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.vbproj.CoreCompileInputs.cache
+E:\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.exe
+E:\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.xml
+E:\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.pdb
+D:\trash\10.23.24\Download\хуйня\Курсовая работа\Kursovaya_Viriasova\bin\Debug\Kursovaya_Viriasova.exe.config
+D:\trash\10.23.24\Download\хуйня\Курсовая работа\Kursovaya_Viriasova\bin\Debug\Kursovaya_Viriasova.exe
+D:\trash\10.23.24\Download\хуйня\Курсовая работа\Kursovaya_Viriasova\bin\Debug\Kursovaya_Viriasova.pdb
+D:\trash\10.23.24\Download\хуйня\Курсовая работа\Kursovaya_Viriasova\bin\Debug\Kursovaya_Viriasova.xml
+D:\trash\10.23.24\Download\хуйня\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.vbproj.AssemblyReference.cache
+D:\trash\10.23.24\Download\хуйня\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.Form1.resources
+D:\trash\10.23.24\Download\хуйня\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.Form10.resources
+D:\trash\10.23.24\Download\хуйня\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.Form11.resources
+D:\trash\10.23.24\Download\хуйня\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.Form2.resources
+D:\trash\10.23.24\Download\хуйня\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.Form3.resources
+D:\trash\10.23.24\Download\хуйня\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.Form4.resources
+D:\trash\10.23.24\Download\хуйня\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.Form5.resources
+D:\trash\10.23.24\Download\хуйня\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.Form6.resources
+D:\trash\10.23.24\Download\хуйня\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.Form7.resources
+D:\trash\10.23.24\Download\хуйня\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.Form8.resources
+D:\trash\10.23.24\Download\хуйня\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.Form9.resources
+D:\trash\10.23.24\Download\хуйня\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.Resources.resources
+D:\trash\10.23.24\Download\хуйня\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.vbproj.GenerateResource.cache
+D:\trash\10.23.24\Download\хуйня\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.vbproj.CoreCompileInputs.cache
+D:\trash\10.23.24\Download\хуйня\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.exe
+D:\trash\10.23.24\Download\хуйня\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.xml
+D:\trash\10.23.24\Download\хуйня\Курсовая работа\Kursovaya_Viriasova\obj\Debug\Kursovaya_Viriasova.pdb
